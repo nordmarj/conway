@@ -22,3 +22,6 @@ HEADERS  += \
     game.h
 
 FORMS    +=
+
+DISTFILES += \
+    README.md
